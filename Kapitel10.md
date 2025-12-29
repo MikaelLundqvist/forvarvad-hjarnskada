@@ -1,4 +1,4 @@
-## **Kapitel 10 – Sammanfattning**
+# **Kapitel 10 – Sammanfattning**
 
 Förvärvad hjärnskada (ABI) definieras som en skada på hjärnan som uppstår efter födseln och som inte är medfödd eller degenerativ \[128]. ABI kan drabba individer i alla åldrar och medföra omfattande konsekvenser för funktion, aktivitet och delaktighet.
 
@@ -17,3 +17,5 @@ Rehabilitering vid ABI bygger på ett helhetsperspektiv där medicinska, psykolo
 ### **Livskvalitet och stöd till närstående**
 
 Livskvalitet är ett övergripande mål för rehabilitering och omfattar mer än funktionella förbättringar. Psykosocialt stöd, meningsfull aktivitet och delaktighet är avgörande för återhämtning \[276]. Närstående spelar en nyckelroll i rehabiliteringsprocessen, men löper själva risk för stress och psykisk ohälsa \[285,331]. Därför måste stöd till anhöriga integreras i vårdplanen för att skapa hållbara lösningar för hela familjen \[333].
+
+\newpage

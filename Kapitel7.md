@@ -10,6 +10,7 @@ Samtidigt visar forskning att närstående ofta upplever bristande stöd, otillr
 
 Detta kapitel fördjupar sig i närståendes perspektiv och belyser hur relationer, roller, psykisk hälsa och livskvalitet påverkas av ABI. Genom att lyfta fram både belastningar och resurser skapas en helhetsbild av den betydelse närstående har — och det stöd de själva behöver — i livet efter en hjärnskada.
 
+---
 
 # **7.2 Närståendes initiala reaktioner och krisprocess**
 
@@ -42,7 +43,7 @@ Forskning visar att denna fas kan vara särskilt belastande eftersom närståend
 Hur närstående hanterar den initiala krisfasen har betydelse för deras långsiktiga anpassning. Studier visar att tidigt stöd, tydlig information och delaktighet i vårdprocessen kan minska stress och förbättra både närståendes och patientens återhämtning över tid \[306]. Samtidigt kan bristande stöd i det tidiga skedet leda till långvarig belastning, psykisk ohälsa och svårigheter att etablera hållbara copingstrategier.
 
 
-
+---
 
 
 # **7.3 Förändrade roller och relationer**
@@ -106,7 +107,7 @@ Relationer förändras inte bara direkt efter skadan utan fortsätter att utveck
 Närstående beskriver att relationen kan präglas av både sorg och hopp, förlust och nyorientering. Denna dynamik är en central del av den psykosociala anpassningen efter ABI.
 
 
-
+---
 
 # **7.4 Psykisk hälsa hos närstående**
 
@@ -194,7 +195,7 @@ Trots stora utmaningar visar många närstående en betydande resiliens. Skyddan
 
 Studier visar att närstående som upplever sig delaktiga i rehabiliteringen och får tydlig information ofta utvecklar mer hållbara copingstrategier och bättre psykisk hälsa över tid \[313].
 
-
+---
 
 # **7.5 Omsorgsbörda och praktiska konsekvenser**
 
@@ -263,7 +264,7 @@ Denna typ av ”osynligt arbete” är ofta tidskrävande och upplevs som en av 
 Omsorgsbördan är sällan begränsad till den akuta fasen utan fortsätter ofta i många år. Studier visar att närståendes belastning kan öka över tid, särskilt när formellt stöd minskar eller när individens behov förändras \[314]\[316]. Detta gör det nödvändigt att se omsorgsbörda som en långsiktig process som kräver kontinuerligt stöd och uppföljning.
 
 
-
+---
 
 # **7.6 Närståendes behov av stöd**
 
@@ -352,7 +353,7 @@ Stöd till närstående är inte bara en insats för familjen, utan en central d
 Därför är det avgörande att stödinsatser utformas långsiktigt och anpassas efter familjens föränderliga behov.
 
 
-
+---
 
 # **7.7 Närståendes perspektiv i svensk kontext**
 
@@ -430,7 +431,7 @@ Den svenska modellen erbjuder goda förutsättningar för rehabilitering och st�
 
 * insatser som inkluderar närstående som partners i rehabiliteringen
 
-
+---
 
 # **7.8 Långsiktig anpassning och återhämtning**
 
@@ -503,7 +504,7 @@ Anpassningen efter ABI är inte en individuell process utan en gemensam resa fö
 Forskning betonar att långsiktig anpassning underlättas av stödjande nätverk, professionellt stöd och en känsla av delaktighet i rehabiliteringen \[327]\[328].
 
 
-
+---
 
 # **7.9 Framtida utvecklingsområden**
 
@@ -595,7 +596,7 @@ Framtidens rehabilitering behöver i högre grad vara familjecentrerad. Detta in
 
 En sådan modell kan skapa bättre förutsättningar för både individens och familjens återhämtning \[330]\[333].
 
-
+---
 
 # **7.10 Sammanfattning av kapitel 7**
 
@@ -609,7 +610,7 @@ Kapitlet lyfter också fram den svenska kontexten, där närstående ofta upplev
 
 Slutligen pekar kapitlet på flera framtida utvecklingsområden: mer strukturerade stödprogram, digitala lösningar, förbättrad samverkan och ökad forskning om närståendes långsiktiga hälsa. En tydlig slutsats är att rehabilitering efter ABI behöver vara familjecentrerad — inte bara individcentrerad — för att skapa hållbara förutsättningar för återhämtning och livskvalitet för hela familjen \[335]\[336].
 
-
+---
 
 # **Referenser**
 
@@ -684,3 +685,5 @@ Slutligen pekar kapitlet på flera framtida utvecklingsområden: mer strukturera
 335. Donoso Brown EV, Stepansky K, Wallace SE, Bien I, Buttino E. Caregiver perceptions of home programs for persons with acquired brain injury: a qualitative descriptive study. _Front Rehabil Sci_. 2024.
 
 336. Elbaum J. Acquired Brain Injury and the Family: Challenges and Interventions. In: _Acquired Brain Injury_. Springer; 2019.
+
+\newpage

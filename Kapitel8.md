@@ -10,6 +10,8 @@ Utöver offentliga aktörer spelar civilsamhället en viktig roll i det svenska 
 
 Detta kapitel ger en översikt över den svenska vårdorganisationen, centrala lagar och rättigheter, stödorganisationer samt de utmaningar som präglar svensk kontext. Syftet är att ge en helhetsbild av hur vård och stöd vid ABI är strukturerat i Sverige, vilka styrkor som finns och vilka utvecklingsområden som är särskilt viktiga för framtiden.
 
+---
+
 # **8.2 Vårdorganisation och vårdkedja i Sverige**
 
 Den svenska vårdorganisationen vid förvärvad hjärnskada (ABI) bygger på en tydlig ansvarsfördelning mellan regioner och kommuner. Regionerna ansvarar för den akuta vården och den specialiserade rehabiliteringen, medan kommunerna ansvarar för långsiktigt stöd, vardagsrehabilitering och sociala insatser \[340]. Trots denna struktur visar forskning och nationella granskningar att vårdkedjan ofta upplevs som fragmenterad, särskilt vid övergångar mellan vårdnivåer \[341].
@@ -93,7 +95,7 @@ Skillnaden mellan SoL och LSS är central: SoL ger ”skälig levnadsnivå”, m
 Socialstyrelsen och flera forskningsstudier lyfter att dessa brister påverkar både rehabiliteringsresultat och delaktighet negativt \[340]\[344].
 
 
-
+---
 
 # **8.3 Rättigheter och lagstiftning**
 
@@ -171,7 +173,7 @@ Patientlagen stärker individens rätt till:
 
 Trots lagens intentioner visar studier att personer med ABI ofta upplever bristande delaktighet, särskilt vid kognitiva svårigheter eller när kommunikationen inte anpassas efter individens förutsättningar \[349].
 
-
+---
 
 # **8.4 Stödorganisationer och civilsamhällets roll**
 
@@ -246,7 +248,7 @@ Digitala plattformar har blivit allt viktigare som stödresurs. Exempel är:
 Dessa resurser ökar tillgängligheten och möjliggör stöd oberoende av geografiska begränsningar.
 
 
-
+---
 
 # **8.5 Utmaningar i svensk kontext**
 
@@ -320,6 +322,7 @@ Flera nationella aktörer, inklusive professionella organisationer och patientf�
 
 En aktuell debattartikel lyfter att bristande nationell samordning gör att personer med ABI riskerar att stå utan rehabilitering och stöd, trots att cirka 70 000 personer drabbas varje år i Sverige \[358]. Detta understryker behovet av tydligare strukturer, bättre samverkan och nationella riktlinjer.
 
+---
 
 # **8.6 Framtida utvecklingsområden i svensk kontext**
 
@@ -417,7 +420,7 @@ Kommunerna har ett stort ansvar för vardagsrehabilitering, men kompetensen vari
 
 Hjärnkraft och NKA lyfter att bristande kompetens i kommunerna är en av de största riskerna för att personer med ABI inte får adekvat stöd \[362]\[363].
 
-
+---
 
 # **8.7 Sammanfattning**
 
@@ -432,7 +435,7 @@ Kapitlet visar också att svensk rehabilitering står inför flera framtida utve
 Sammanfattningsvis framträder en bild av ett system med starka strukturella förutsättningar men betydande praktiska utmaningar. För att förbättra rehabiliteringens kvalitet och tillgänglighet krävs fortsatt utveckling, nationell samordning och ett tydligare fokus på långsiktighet och helhetsperspektiv.
 
 
-
+---
 
 # **Referenser**
 
@@ -495,3 +498,5 @@ Sammanfattningsvis framträder en bild av ett system med starka strukturella fö
 365. Sveriges Kommuner och Regioner (SKR). _Samverkan i vårdkedjan vid förvärvad hjärnskada_. Stockholm: SKR; 2020.
 
 366. Hjärnskadeförbundet Hjärnkraft. _Om oss_. Stockholm: Hjärnkraft; 2024.
+
+\newpage

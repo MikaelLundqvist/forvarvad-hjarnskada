@@ -1,4 +1,4 @@
-# 📘 Kapitel 2 – Definitioner och klassifikation
+# Kapitel 2 – Definitioner och klassifikation
 
 # **2.1 Definition av förvärvad hjärnskada (ABI)**
 
@@ -15,6 +15,8 @@ Den internationella litteraturen betonar att ABI bör förstås som ett **multid
 _(Här kan vi senare lägga in en kort fallvinjett som illustrerar hur begreppsförvirring kan påverka patientens väg genom vården.)_
 
 
+---
+
 # **2.2 Klassifikation av förvärvad hjärnskada**
 
 Förvärvad hjärnskada (Acquired Brain Injury, ABI) klassificeras i första hand utifrån **etiologi**, vilket innebär att man skiljer mellan **traumatisk** och **icke‑traumatisk** hjärnskada. Denna indelning är central eftersom den påverkar både akuta behandlingsstrategier, prognos och val av rehabiliteringsinsatser \[10,11].
@@ -25,7 +27,8 @@ Traumatisk hjärnskada (Traumatic Brain Injury, TBI) orsakas av **yttre mekanisk
 
 TBI omfattar både **primära** och **sekundära** skador. Den primära skadan uppstår vid skadehändelsen och kan inkludera kontusioner, hematom, lacerationer och diffust axonalt trauma (DAI). Sekundära skador utvecklas över tid och omfattar hypoxi, ödem, excitotoxicitet, inflammation och intrakraniell tryckstegring \[15]. Dessa sekundära mekanismer är avgörande för prognosen och utgör viktiga mål för akut medicinsk behandling.
 
-Svårighetsgraden av TBI klassificeras vanligen med **Glasgow Coma Scale (GCS)**, duration av medvetslöshet och längden på posttraumatisk amnesi (PTA). Enligt etablerade kriterier definieras mild TBI som GCS 13–15, måttlig som 9–12 och svår som ≤8 \[16]. Trots denna indelning kan även mild TBI leda till långvariga kognitiva och emotionella konsekvenser, särskilt vid upprepade skador \[17].
+Svårighetsgraden av TBI klassificeras vanligen med **Glasgow Coma Scale (GCS)**, duration av medvetslöshet och längden på posttraumatisk amnesi (PTA). Enligt etablerade kriterier definieras mild TBI som GCS 13–15, måttlig som 9–12 och svår som $\leq 8$
+ \[16]. Trots denna indelning kan även mild TBI leda till långvariga kognitiva och emotionella konsekvenser, särskilt vid upprepade skador \[17].
 
 ## **2.2.2 Icke‑traumatisk hjärnskada**
 
@@ -67,6 +70,7 @@ Den etiologiska klassifikationen är central eftersom den påverkar:
 
 Trots tydliga kategorier finns betydande överlapp. Exempelvis kan en person med stroke också drabbas av sekundära traumatiska komponenter vid fall, och en person med TBI kan utveckla hypoxiska inslag vid långvarig medvetslöshet. Detta understryker behovet av en **multidimensionell klassifikation** som kombinerar etiologi med funktionell och anatomisk information \[10,12].
 
+---
 
 # **2.3 Klassifikation efter skadans utbredning och lokalisation**
 
@@ -109,6 +113,8 @@ I klinisk praxis kombineras ofta etiologisk, anatomisk och funktionell klassifik
 
 _(Här kan en fallvinjett illustrera skillnaden mellan fokal och diffus skada, t.ex. . en person med stroke vs en person med hjärtstopp.)_
 
+
+---
 
 # **2.4 Klassifikation efter tidsförlopp: akut, subakut och kronisk fas**
 
@@ -202,6 +208,7 @@ Indelningen i akut, subakut och kronisk fas är viktig för:
 
 Den hjälper också till att skapa realistiska förväntningar och att strukturera rehabiliteringsmål över tid.
 
+---
 
 # **2.5 Klassifikation efter funktionspåverkan**
 
@@ -313,6 +320,7 @@ Klassifikation efter funktionspåverkan är central för:
 
 Eftersom ABI är ett heterogent tillstånd krävs en **multidisciplinär och individanpassad** bedömning av funktionspåverkan för att optimera rehabiliteringsutfallet.
 
+---
 
 # **2.6 Diagnostiska metoder och klassifikationsverktyg**
 
@@ -443,6 +451,8 @@ Eftersom ingen enskild metod kan fånga hela komplexiteten i ABI krävs en **int
 En sådan helhetsbedömning är särskilt viktig vid milda och diffusa skador, där symtomen ofta är subtila men funktionspåverkan betydande \[54,61].
 
 
+---
+
 # **2.7 Sammanfattning av klassifikationsprinciper**
 
 Förvärvad hjärnskada (ABI) är ett komplext och heterogent tillstånd som kräver en **multidimensionell klassifikation** för att förstå skadans natur, konsekvenser och rehabiliteringsbehov. Ingen enskild klassifikationsmodell är tillräcklig; i stället kombineras **etiologisk**, **anatomisk**, **tidsmässig** och **funktionsbaserad** klassifikation för att skapa en helhetsbild av individens situation \[68].
@@ -457,8 +467,9 @@ Slutligen är den **funktionsbaserade klassifikationen** central för att först
 
 Tillsammans möjliggör dessa klassifikationsprinciper en **holistisk förståelse** av ABI. De ger en strukturerad grund för diagnostik, prognosbedömning och rehabiliteringsplanering, samtidigt som de underlättar kommunikationen mellan vårdgivare, patienter och närstående. En integrerad klassifikation är därför avgörande för att säkerställa att varje individ får rätt insatser vid rätt tidpunkt och att rehabiliteringen anpassas efter både medicinska och psykosociala behov \[68,70].
 
+---
 
-# **Referenser (Vancouver)**
+# **Referenser**
 
 1. Goldman L, Siddiqui EM, Khan A, Jahan S, Rehman MU, Mehan S, et al. Understanding acquired brain injury: A review. _Biomedicines_. 2022;10(9):2167.
 
@@ -477,8 +488,6 @@ Tillsammans möjliggör dessa klassifikationsprinciper en **holistisk förståel
 8. Ponsford J, Sloan S, Snow P. _Traumatic Brain Injury: Rehabilitation for Everyday Adaptive Living_. 2nd ed. Hove: Psychology Press; 2013.
 
 9. Sharp DJ, Scott G, Leech R. Network dysfunction after traumatic brain injury. _Nat Rev Neurol_. 2014;10(3):156–66.
-
-_(fortsättning från kapitel 2.1)_
 
 10. Goldman L, Siddiqui EM, Khan A, Jahan S, Rehman MU, Mehan S, et al. Understanding acquired brain injury: A review. _Biomedicines_. 2022;10(9):2167.
 
@@ -605,3 +614,5 @@ _(fortsättning från kapitel 2.1)_
 71. Langhorne P, Bernhardt J, Kwakkel G. Stroke rehabilitation. _Lancet_. 2011;377(9778):1693–702.
 
 72. Cicerone KD, Langenbahn DM, Braden C, et al. Evidence-based cognitive rehabilitation: updated review. _Arch Phys Med Rehabil_. 2019;100(8):1515–33.
+
+\newpage

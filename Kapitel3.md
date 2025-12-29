@@ -12,6 +12,7 @@ Globalt finns betydande skillnader i incidens och mortalitet. Låg- och medelink
 
 Epidemiologiska data är avgörande för att förstå omfattningen av ABI, identifiera riskgrupper och utveckla effektiva preventiva insatser. De ger också en grund för att dimensionera vård- och rehabiliteringsresurser och för att utforma riktlinjer som möter behoven hos en växande grupp personer som lever med långvariga konsekvenser av hjärnskada \[74,82].
 
+---
 
 # **3.2 Global epidemiologi**
 
@@ -57,6 +58,8 @@ Den globala sjukdomsbördan av ABI förväntas öka under kommande decennier på
 
 Samtidigt finns möjligheter att minska bördan genom preventiva insatser, förbättrad akutsjukvård och utbyggd rehabilitering. Globalt sett är dock tillgången till rehabilitering mycket ojämnt fördelad, vilket innebär att många personer med ABI inte får adekvat stöd för återhämtning \[91].
 
+---
+
 # **3.3 Epidemiologi i Europa och Norden**
 
 Epidemiologin för förvärvad hjärnskada (ABI) i Europa och Norden präglas av demografiska förändringar, förbättrad akutsjukvård och ökande överlevnad efter medicinska tillstånd som tidigare var förenade med hög mortalitet. Dessa faktorer har lett till att fler personer lever med långvariga konsekvenser av hjärnskada, vilket ställer ökade krav på rehabiliteringssystem och samhällsstöd \[92].
@@ -95,6 +98,7 @@ Demografiska förändringar har stor betydelse för epidemiologin i Europa och N
 
 Dessa trender innebär att behovet av långsiktig rehabilitering och stöd kommer att fortsätta öka, särskilt för äldre personer med komplex samsjuklighet.
 
+---
 
 ## 3.4 Epidemiologi i Sverige
 
@@ -142,6 +146,8 @@ Sammantaget innebär detta att Sverige står inför en växande långsiktig vår
 
 
 _(Här kan vi senare lägga in en svensk fallvinjett, t.ex. . en äldre person som drabbas av stroke efter ett fall.)_
+
+---
 
 # **3.5 Orsaker till förvärvad hjärnskada**
 
@@ -239,6 +245,7 @@ I klinisk praxis är det vanligt att flera etiologiska faktorer samverkar. Exemp
 
 Samsjuklighet, såsom hypertoni, diabetes, missbruk och psykisk ohälsa, påverkar både risken att drabbas och möjligheten till återhämtning \[109].
 
+---
 
 # **3.6 Multietiologiska och komplexa fall**
 
@@ -310,6 +317,8 @@ Dessa patienter kräver ofta samordnade insatser mellan akutsjukvård, rehabilit
 
 På grund av komplexiteten i multietiologiska fall betonar forskningen vikten av **integrerade vårdmodeller** som kombinerar medicinsk behandling, neurorehabilitering och psykosociala insatser. Multidisciplinära team, strukturerade vårdkedjor och långsiktig uppföljning är centrala komponenter för att optimera funktion och livskvalitet \[117,122].
 
+---
+
 # **3.7 Sammanfattning**
 
 Förvärvad hjärnskada (ABI) utgör ett betydande folkhälsoproblem globalt, i Europa och i Sverige. Epidemiologin präglas av stora variationer mellan regioner, demografiska grupper och etiologiska kategorier. Globalt är ABI en av de främsta orsakerna till långvarig funktionsnedsättning och förlorade friska levnadsår, med stroke och traumatisk hjärnskada som dominerande orsaker \[123]. I låg- och medelinkomstländer är incidensen av traumatisk hjärnskada särskilt hög, ofta kopplad till trafikolyckor och våld, medan höginkomstländer har högre överlevnad efter stroke och hjärtstopp, vilket leder till en växande population som lever med kroniska konsekvenser av ABI \[124].
@@ -322,6 +331,7 @@ Orsakerna till ABI är mångfacetterade och inkluderar trauma, vaskulära hände
 
 Sammantaget visar epidemiologin att ABI är ett dynamiskt och växande folkhälsoproblem som kräver **integrerade vårdmodeller**, **multidisciplinär rehabilitering** och **långsiktig uppföljning**. För att möta framtidens behov krävs både preventiva insatser, förbättrad akutsjukvård och en stärkt rehabiliteringskedja som kan hantera den ökande gruppen personer som lever med långvariga konsekvenser av hjärnskada.
 
+---
 
 # **Referenser**
 
@@ -434,3 +444,5 @@ Sammantaget visar epidemiologin att ABI är ett dynamiskt och växande folkhäls
 126. Leal-Méndez F, Lewén A, Gu A, et al. Regional variation in traumatic brain injury patterns, management and mortality: a nationwide Swedish cohort study. _Acta Neurochir_. 2025.
 
 127. Mackenbach JP, Kulhánová I, Menvielle G, et al. Socioeconomic inequalities in health in 22 European countries. _N Engl J Med_. 2008;358(23):2468–81.
+
+\newpage

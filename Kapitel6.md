@@ -1,4 +1,4 @@
-# 📘 **Kapitel 6 – Psykosociala aspekter och livskvalitet**
+# **Kapitel 6 – Psykosociala aspekter och livskvalitet**
 
 # **6.1 Inledning**
 
@@ -12,9 +12,7 @@ Psykosociala aspekter är inte en separat del av rehabiliteringen, utan genomsyr
 
 Kapitlet syftar till att ge en fördjupad förståelse för de psykosociala dimensionerna av ABI och att belysa varför dessa aspekter är avgörande för långsiktig hälsa och välbefinnande. Det fungerar som en brygga mellan de mer kliniskt orienterade kapitlen och de delar av boken som behandlar samhälleliga, organisatoriska och framtida utmaningar.
 
-
-
-***
+---
 
 # **6.2 Definitioner och klassifikation**
 
@@ -28,9 +26,7 @@ Utöver ICF används även specifika instrument för att mäta livskvalitet, så
 
 Sammanfattningsvis erbjuder definitioner och klassifikationssystem en struktur för att förstå de komplexa psykosociala konsekvenserna av ABI. De hjälper kliniker att identifiera relevanta problemområden, formulera mål och planera insatser som stärker individens delaktighet och välbefinnande.
 
-
-
-***
+---
 
 # **6.3 Epidemiologi och orsaker**
 
@@ -54,8 +50,7 @@ Orsakerna till psykosociala svårigheter är multifaktoriella och inkluderar:
 
 Långtidsuppföljningar visar att psykosociala svårigheter ofta är långvariga och i vissa fall kan öka över tid, särskilt om individen saknar adekvat stöd eller hamnar utanför arbete och sociala sammanhang \[270]. Detta understryker behovet av att se psykosocial problematik som en central del av den långsiktiga sjukdomsbördan vid ABI.
 
-
-***
+---
 
 # **6.4 Konsekvenser av förvärvad hjärnskada**
 
@@ -147,9 +142,7 @@ Livskvalitet påverkas av en kombination av fysiska, kognitiva, emotionella och 
 
 Forskning visar att livskvalitet efter ABI i hög grad påverkas av psykosociala faktorer, särskilt socialt stöd, identitet, copingstrategier och möjligheten att delta i meningsfulla aktiviteter.
 
-
-
-***
+---
 
 ## 6.5 Rehabilitering och behandling
 
@@ -209,11 +202,7 @@ Långsiktiga strategier kan inkludera:
 
 Ett sådant långsiktigt perspektiv möjliggör en mer hållbar psykosocial rehabilitering, där fokus inte enbart ligger på att reducera symtom, utan på att stödja ett gott liv över tid \[276]\[279].
 
-
-
-
-***
-
+---
 
 # **6.6 Psykosociala aspekter och livskvalitet**
 
@@ -303,7 +292,7 @@ När dessa faktorer stärks ökar ofta både livskvalitet och psykiskt välbefin
 
 Psykosociala aspekter är avgörande för att förstå livet efter ABI. De påverkar hur individen upplever sin skada, sin identitet, sina relationer och sin framtid. Livskvalitet formas av samspelet mellan emotionella, sociala och existentiella faktorer, och förbättras när individen får möjlighet att delta i meningsfulla aktiviteter, utveckla nya strategier och bygga upp en hållbar identitet. Psykosocial rehabilitering behöver därför vara långsiktig, flexibel och integrerad i hela vård- och stödprocessen.
 
-***
+---
 
 # **6.7 Närståendes perspektiv**
 
@@ -377,9 +366,7 @@ Närstående som får adekvat stöd upplever ofta mindre stress, bättre hälsa 
 
 Närståendes perspektiv är en avgörande del av förståelsen av livet efter ABI. De påverkas av skadan på flera nivåer — emotionellt, socialt, praktiskt och ekonomiskt — och deras välbefinnande är nära kopplat till individens återhämtning. Genom att inkludera närstående i rehabiliteringen, erbjuda stöd och erkänna deras centrala roll kan vården bidra till en mer hållbar och helhetsinriktad återhämtningsprocess.
 
-
-
-***
+---
 
 # **6.8 Svensk kontext: vård, stöd och samhälle**
 
@@ -471,17 +458,9 @@ Svenska studier betonar behovet av förbättrad samverkan och tydligare struktur
 
 Den svenska modellen erbjuder goda förutsättningar för rehabilitering och stöd vid ABI, men systemet är komplext och kräver effektiv samverkan mellan många aktörer. Forskning visar att personer med ABI och deras närstående ofta upplever brister i kontinuitet, samordning och långsiktighet. För att stärka livskvalitet och delaktighet behövs därför fortsatt utveckling av samverkan, arbetslivsinriktat stöd och familjecentrerade insatser.
 
-# **Referenser (Vancouver)**
+---
 
-_(fortsättning från tidigare kapitel)_
 
-289. Matérne M. _Återgång i arbete efter förvärvad hjärnskada – livskvalitet, möjligheter och hinder_. Örebro University; 2018.
-
-290. Baric V, Yngve M, Höglund A, et al. Long-term outcome and rehabilitation needs after acquired brain injury in children and adolescents – a Swedish cohort. _Disabil Rehabil_. 2024.
-
-291. Matérne M, Lundqvist L‑O, Strandberg T. Support persons’ perceptions of giving vocational rehabilitation support to clients with acquired brain injury in Sweden. _J Soc Work Disabil Rehabil_. 2016.
-
-292. Karolinska University Hospital. _Acquired Brain Injury – in children_. Stockholm: Karolinska; 2024.
 
 
 
@@ -679,3 +658,5 @@ Slutligen pekar kapitlet på flera framtida utvecklingsområden: digitalisering,
 299. Glintborg C, Hansen TGB. Psychosocial sequelae after acquired brain injury: a 5-year follow-up. _Nord Psychol_. 2020.
 
 300. Kreutzer JS, Rapport LJ, Marwitz JH, et al. Caregiver burden after traumatic brain injury: a systematic review. _J Head Trauma Rehabil_. 2009.
+
+\newpage

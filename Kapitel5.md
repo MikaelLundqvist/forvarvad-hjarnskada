@@ -14,6 +14,8 @@ ICF‑modellen (International Classification of Functioning, Disability and Heal
 
 Rehabilitering efter ABI är därför inte en linjär process, utan en dynamisk och ofta livslång resa där individens behov förändras över tid. Detta kapitel ger en strukturerad genomgång av rehabiliteringens principer, organisation och specifika insatser inom kognitiva, emotionella, motoriska och sociala områden, samt belyser betydelsen av långsiktig uppföljning och stöd.
 
+---
+
 # **5.2 Rehabiliteringsprinciper och evidens**
 
 Rehabilitering efter förvärvad hjärnskada (ABI) vilar på ett antal grundläggande principer som syftar till att främja återhämtning, kompensera för kvarstående svårigheter och stärka individens delaktighet i vardagslivet. Dessa principer är förankrade i forskning om neuroplasticitet, inlärningsteori och klinisk evidens, och utgör grunden för både akuta, subakuta och långsiktiga insatser \[205].
@@ -105,6 +107,8 @@ Målsättning är en av de mest kraftfulla mekanismerna i rehabilitering. SMART�
 ## **Sammanfattning**
 
 Rehabilitering efter ABI bygger på principer om neuroplasticitet, uppgiftsorienterad träning, meningsfullhet och individanpassning. Evidens visar att tidig, intensiv och målinriktad rehabilitering ger bäst resultat, men att förbättringar är möjliga även långt efter skadan. Dessa principer utgör grunden för de mer specifika rehabiliteringsinsatser som beskrivs i kommande avsnitt.
+
+---
 
 # **5.3 Organisation av rehabilitering**
 
@@ -198,7 +202,7 @@ Trots detta upplever många patienter bristande koordinering och otydliga ansvar
 
 En välorganiserad rehabiliteringskedja är avgörande för att personer med ABI ska få rätt insatser vid rätt tidpunkt. Rehabiliteringen sträcker sig från akutsjukvård till långsiktigt kommunalt stöd och kräver samverkan mellan flera aktörer. Interdisciplinära team, tidig mobilisering och strukturerad uppföljning är centrala komponenter för att optimera återhämtning och delaktighet.
 
-
+---
 
 # **5.4 Rehabilitering av kognitiva funktioner**
 
@@ -312,6 +316,7 @@ Forskning visar att social kognitiv träning kan förbättra både social funkti
 
 Kognitiv rehabilitering är en mångfacetterad process som kräver individanpassning, interdisciplinärt samarbete och integration i vardagliga aktiviteter. Evidens visar att kombinationen av restitution, kompensation och miljöanpassning ger bäst resultat. Kognitiva insatser är centrala för att stödja återgång till arbete, studier och social delaktighet, och utgör därför en av hörnstenarna i rehabilitering efter ABI.
 
+---
 
 # **5.5 Emotionell och psykologisk rehabilitering**
 
@@ -409,6 +414,7 @@ Forskning visar att närståendestöd förbättrar både patientens och familjen
 
 Emotionell och psykologisk rehabilitering är en avgörande del av återhämtningen efter ABI. Genom psykologisk behandling, beteendeterapeutiska insatser, medicinsk behandling och stöd till närstående kan individen utveckla strategier för att hantera känslomässiga utmaningar och anpassa sig till förändrade livsvillkor. Dessa insatser är centrala för att förbättra livskvalitet, delaktighet och långsiktig funktion.
 
+---
 
 # **5.6 Motorisk rehabilitering**
 
@@ -488,6 +494,7 @@ Dessa tekniker kan öka motivation, möjliggöra hög repetitionsgrad och ge obj
 
 Motorisk rehabilitering efter ABI är en mångfacetterad process som kräver individanpassning, interdisciplinärt samarbete och evidensbaserade metoder. Genom gång- och balansrehabilitering, arm- och handträning, spasticitetshantering och användning av tekniska hjälpmedel kan individen återfå funktion, öka självständighet och förbättra livskvalitet. Motorisk rehabilitering är en av hörnstenarna i neurorehabilitering och har stor betydelse för delaktighet i vardagslivet.
 
+---
 
 # **5.7 Sensorisk och perceptuell rehabilitering**
 
@@ -565,6 +572,8 @@ Evidens visar att vestibulär rehabilitering är effektiv för att minska yrsel 
 
 Sensorisk och perceptuell rehabilitering är en viktig del av neurorehabilitering efter ABI. Genom synrehabilitering, auditiv träning, somatosensorisk stimulering och vestibulär rehabilitering kan individen förbättra sin förmåga att tolka och använda sensorisk information i vardagen. Dessa insatser är centrala för att stärka orientering, balans, kommunikation och delaktighet, och bör integreras i ett interdisciplinärt och individanpassat rehabiliteringsprogram.
 
+
+---
 
 # **5.8 Fatigue och energihantering**
 
@@ -650,6 +659,7 @@ Moderna modeller betonar att både subjektiva upplevelser och objektiva faktorer
 
 Fatigue är ett av de mest begränsande och långvariga symtomen efter ABI och kräver en strukturerad, individanpassad och multidisciplinär rehabiliteringsstrategi. Genom energihantering, miljöanpassning, sömnoptimering och psykoedukation kan individen utveckla hållbara strategier för att hantera fatigue i vardagen. Trots begränsad evidens finns växande stöd för modeller som kombinerar beteendeförändring, självmonitorering och personcentrerad planering.
 
+---
 
 # **5.9 Rehabilitering vid medvetandestörningar**
 
@@ -747,6 +757,7 @@ Etiska beslut bör baseras på:
 
 Forskning betonar vikten av tydliga vårdplaner och kontinuerlig kommunikation mellan team och närstående.
 
+---
 
 # **5.10 Arbetslivsinriktad rehabilitering**
 
@@ -854,7 +865,7 @@ En systematisk översikt visar att endast cirka 41 % av personer med TBI är i a
 
 Arbetslivsinriktad rehabilitering är en komplex men avgörande del av återhämtningen efter ABI. Genom strukturerad arbetsförmågebedömning, individanpassade insatser, arbetsplatsanpassningar och samordning mellan aktörer kan fler personer återgå till arbete och behålla sin sysselsättning över tid. Evidensen visar att tidig, team-baserad och långsiktig arbetsrehabilitering ger bäst resultat, men att det fortfarande finns stora behov av utveckling och förbättrad samverkan.
 
-
+---
 
 # **5.11 Rehabilitering för studier och utbildning**
 
@@ -950,7 +961,7 @@ Forskning visar att hopp, motivation och känsla av sammanhang är centrala fakt
 
 Rehabilitering för studier och utbildning är en viktig del av återhämtningen efter ABI och kräver ett helhetsgrepp som inkluderar pedagogiska anpassningar, kognitivt stöd, psykosocialt stöd och samverkan mellan skola och vård. Evidensen visar att riktade utbildningsinsatser, strukturerad samverkan och individanpassade strategier förbättrar skolnärvaro, prestation och delaktighet. För många personer är möjligheten att återgå till studier en avgörande del av att återta sin identitet och skapa en meningsfull framtid.
 
-
+---
 
 # **5.12 Hjälpmedel och kognitiva stöd**
 
@@ -1076,6 +1087,7 @@ En studie visar att kliniker ofta upplever osäkerhet kring hur de ska välja oc
 
 Hjälpmedel och kognitiva stöd är avgörande för att kompensera för kognitiva svårigheter efter ABI och möjliggöra självständighet, delaktighet och livskvalitet. Digitala och lågteknologiska hjälpmedel, kommunikationsstöd, minneshjälpmedel och smart hem-teknik kan alla spela en viktig roll. För att lyckas krävs individanpassning, träning, uppföljning och ett nära samarbete mellan användare, närstående och rehabiliteringsteam.
 
+---
 
 # **5.13 Långsiktig uppföljning och livslång rehabilitering**
 
@@ -1171,6 +1183,7 @@ En av de största utmaningarna är bristande kontinuitet. Många personer beskri
 
 Långsiktig uppföljning och livslång rehabilitering är avgörande för att personer med ABI ska kunna bibehålla funktion, delaktighet och livskvalitet över tid. Eftersom symtomen kan förändras och nya utmaningar uppstå krävs återkommande bedömningar, flexibla insatser och ett helhetsperspektiv som inkluderar medicinska, kognitiva, emotionella och sociala faktorer. Rehabilitering efter ABI är en livslång process — inte en avslutad fas — och kräver en sammanhållen vårdkedja som följer individen genom livets olika skeden.
 
+---
 
 # **5.14 Sammanfattning**
 
@@ -1188,7 +1201,7 @@ Slutligen betonar kapitlet att rehabilitering efter ABI är en **livslång proce
 
 Sammanfattningsvis visar kapitel 5 att effektiv rehabilitering efter ABI kräver en kombination av evidensbaserade metoder, individanpassning, tvärprofessionellt samarbete och långsiktig uppföljning. Genom att integrera medicinska, kognitiva, emotionella och sociala perspektiv kan rehabiliteringen stödja individen i att återta kontroll över sitt liv och skapa en hållbar och meningsfull vardag.
 
-
+---
 
 # **Referenser**
 
@@ -1315,3 +1328,5 @@ Sammanfattningsvis visar kapitel 5 att effektiv rehabilitering efter ABI kräver
 261. Salter K, Foley N, Teasell R. Social participation after acquired brain injury: predictors and outcomes. _Brain Inj_. 2013;27(1):1–13.
 
 262. Turner-Stokes L. Evidence-based rehabilitation following acquired brain injury. _Clin Med_. 2003;3(3):214–8.
+
+\newpage

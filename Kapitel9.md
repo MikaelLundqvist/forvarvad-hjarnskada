@@ -23,7 +23,7 @@ Närståendes roll framträder som en avgörande faktor för återhämtning. Fam
 Sammanfattningsvis visar diskussionen att rehabilitering inte kan reduceras till en medicinsk intervention. Den måste inkludera psykologiska, sociala och miljömässiga faktorer och utgå från ett ICF-baserat perspektiv som betonar samspelet mellan kroppsfunktioner, aktivitet, delaktighet och omgivning \[268]. Ett sådant helhetsperspektiv är avgörande för att optimera livskvalitet och delaktighet för personer med ABI.
 
 
-***
+---
 
 ### **9.2 Kunskapsluckor**
 
@@ -50,7 +50,7 @@ Barn och ungdomar med ABI utgör en särskilt sårbar grupp. Hjärnans utvecklin
 Dessa kunskapsluckor pekar på behovet av mer longitudinell forskning, integrerade vårdmodeller och interventioner som inkluderar hela familjen. Utvecklingen av digitala lösningar och nationella register kan spela en viktig roll för att fylla dessa luckor och skapa evidensbaserade insatser.
 
 
-***
+---
 
 ### **9.3 Framtida riktning**
 
@@ -76,8 +76,9 @@ Närståendes behov måste integreras i vårdplanen. Stödprogram, digitala lös
 
 Barn och ungdomar med ABI behöver modeller för livslång uppföljning och samverkan mellan sjukvård, skola och socialtjänst \[290,295]. Framtida insatser bör inkludera pedagogiska strategier, psykologiskt stöd och övergångsprogram till vuxenlivet för att säkerställa kontinuitet.
 
-***
+---
 
 **Sammanfattning:**\
 Framtidens ABI-rehabilitering kräver ett paradigmskifte från kortsiktiga, funktionsfokuserade insatser till långsiktiga, psykosocialt orienterade och digitalt förstärkta modeller. Detta förutsätter samverkan mellan forskning, klinik och samhälle för att skapa hållbara lösningar som möter individens och familjens behov.
 
+\newpage

@@ -14,6 +14,8 @@ Konsekvenserna varierar också över tid. I den akuta fasen dominerar neurologis
 
 Sammanfattningsvis utgör konsekvenserna av ABI ett komplext och dynamiskt fenomen som kräver en helhetssyn. Detta kapitel ger en strukturerad genomgång av de vanligaste konsekvenserna inom kognitiva, emotionella, beteendemässiga, motoriska, sensoriska och sociala domäner, samt deras betydelse för vardagsliv, arbetsförmåga och långsiktig prognos.
 
+---
+
 # **4.2 Kognitiva konsekvenser**
 
 Kognitiva svårigheter är bland de mest framträdande och långvariga konsekvenserna av förvärvad hjärnskada (ABI). De påverkar individens förmåga att bearbeta information, lösa problem, kommunicera och hantera vardagliga aktiviteter. Kognitiva nedsättningar förekommer vid alla typer av ABI, men deras omfattning och karaktär varierar beroende på skadans etiologi, lokalisation och utbredning. Forskning visar att kognitiva symtom ofta är mer avgörande för livskvalitet, arbetsförmåga och social delaktighet än motoriska bortfall \[133].
@@ -42,6 +44,7 @@ Språkliga svårigheter varierar beroende på skadans lokalisation. Vid stroke i
 
 Social kognition omfattar förmågan att förstå andra människors känslor, intentioner och perspektiv. Nedsättningar i social kognition är vanliga efter TBI och frontala skador och kan leda till svårigheter med empati, affektigenkänning och socialt omdöme \[139]. Detta påverkar relationer, arbetsliv och social delaktighet i hög grad, och är ofta en av de mest belastande konsekvenserna för både individ och närstående.
 
+---
 
 # **4.3 Emotionella konsekvenser**
 
@@ -79,6 +82,7 @@ Personlighetsförändringar är en av de mest påtagliga och svårhanterliga kon
 
 Dessa förändringar är särskilt vanliga vid frontala skador och kan påverka relationer, arbetsliv och identitet i grunden \[145]. För närstående kan personlighetsförändringar vara en av de mest smärtsamma konsekvenserna av hjärnskada.
 
+---
 
 # **4.4 Beteendemässiga konsekvenser**
 
@@ -126,6 +130,8 @@ Riskbeteenden är vanliga efter ABI och kan inkludera:
 
 Dessa beteenden är ofta kopplade till nedsatt impulskontroll, bristande omdöme och förändrad självinsikt. Personer med ABI kan ha svårt att bedöma risker eller konsekvenser, vilket gör att de hamnar i utsatta situationer \[151].
 
+---
+
 # **4.5 Motoriska konsekvenser**
 
 Motoriska konsekvenser är vanliga efter förvärvad hjärnskada (ABI) och kan omfatta allt från subtila koordinationssvårigheter till omfattande förlamningar. Motoriska symtom påverkar individens förmåga att röra sig, utföra vardagsaktiviteter och delta i sociala och arbetsrelaterade sammanhang. De uppstår genom skador på motoriska kortex, basala ganglier, cerebellum, hjärnstammen eller de nervbanor som förbinder dessa strukturer \[152]. Motoriska konsekvenser varierar kraftigt beroende på skadans etiologi, lokalisation och svårighetsgrad.
@@ -150,6 +156,7 @@ Spasticitet är en hastighetsberoende ökning av muskeltonus som ofta uppstår e
 
 Rörelsestörningar såsom tremor, dystoni, chorea eller myoklonus kan förekomma efter ABI, särskilt vid skador på basala ganglier eller thalamus. Dessa symtom kan vara intermittenta eller kontinuerliga och påverkar ofta finmotorik, skrivförmåga och precision i rörelser. Rörelsestörningar är vanligare efter hypoxiska skador och vissa typer av encefalit, men kan även förekomma efter stroke och TBI \[157].
 
+---
 
 # **4.6 Sensoriska konsekvenser**
 
@@ -184,6 +191,8 @@ Vestibulära symtom är mycket vanliga efter TBI och kan även förekomma efter 
 * Svårigheter att stabilisera blicken
 
 Skador på hjärnstammen, lillhjärnan eller vestibulära banor kan leda till långvariga problem som påverkar gång, orientering och förmågan att vistas i komplexa miljöer \[163]. Vestibulära symtom bidrar ofta till ökad fatigue och undvikandebeteenden.
+
+---
 
 # **4.7 Fatigue och energireglering**
 
@@ -241,6 +250,7 @@ Forskning visar att fatigue är en av de främsta orsakerna till att personer me
 
 Fatigue är ofta långvarig och kan kvarstå i många år efter skadan. Den kräver därför långsiktiga strategier, såsom energihantering, aktivitetsbalans, anpassningar i arbetsmiljön och stöd från både vård och närstående.
 
+---
 
 # **4.8 Medvetandestörningar**
 
@@ -326,6 +336,7 @@ Prognosen vid medvetandestörningar påverkas av flera faktorer:
 
 Bedömning av medvetandestörningar kräver strukturerade instrument, såsom **Coma Recovery Scale–Revised (CRS‑R)**, som är standardiserat och validerat för att skilja mellan olika medvetandetillstånd.
 
+---
 
 # **4.9 Sociala och psykosociala konsekvenser**
 
@@ -383,7 +394,7 @@ Många konsekvenser av ABI är osynliga, såsom fatigue, minnesproblem, långsam
 
 Personer med ABI beskriver ofta att de måste ”förklara sig” i sociala och arbetsrelaterade sammanhang, vilket kan vara både utmattande och sårande.
 
-
+---
 
 # **4.10 Arbetsförmåga och studieförmåga**
 
@@ -465,7 +476,7 @@ Studenter med ABI kan behöva:
 
 Forskning visar att anpassningar och pedagogiskt stöd är avgörande för att möjliggöra studier efter ABI, särskilt vid högre utbildning där kraven på självständighet och kognitiv uthållighet är höga \[189].
 
-
+---
 
 # **4.11 Delaktighet och aktivitetsförmåga (ICF‑perspektiv)**
 
@@ -565,7 +576,7 @@ ICF betonar att funktionsnedsättning inte enbart beror på individens skada, ut
 
 Forskning visar att miljöfaktorer ofta är mer avgörande för delaktighet än skadans medicinska svårighetsgrad \[194].
 
-
+---
 
 # **4.12 Långsiktiga konsekvenser och prognos**
 
@@ -631,7 +642,7 @@ Livskvaliteten efter ABI påverkas av både medicinska och psykosociala faktorer
 
 Långsiktigt utfall förbättras av kontinuerlig rehabilitering, anpassningar i vardagen och ett stödjande nätverk. Många personer beskriver att återhämtningen inte handlar om att ”bli som förut”, utan om att skapa ett nytt sätt att leva med förändrade förutsättningar.
 
-
+---
 
 # **4.13 Sammanfattning**
 
@@ -647,7 +658,7 @@ Långsiktigt präglas livet efter ABI av både möjligheter och begränsningar. 
 
 Sammanfattningsvis visar kapitel 4 att konsekvenserna av ABI är multidimensionella och att rehabilitering måste vara individanpassad, tvärprofessionell och långsiktig. För att optimera återhämtning och livskvalitet krävs en helhetssyn som inkluderar medicinska, psykologiska, sociala och miljömässiga faktorer. Detta lägger grunden för kommande kapitel, där fokus riktas mot rehabilitering, interventioner och vårdkedjans organisation.
 
-
+---
 
 # **Referenser**
 
@@ -796,3 +807,5 @@ Sammanfattningsvis visar kapitel 4 att konsekvenserna av ABI är multidimensione
 199. Ownsworth T, Haslam C. Impact of neuropsychological deficits on long-term adjustment after traumatic brain injury. _J Head Trauma Rehabil_. 2016;31(4):E1–E12.
 
 200. Cicerone KD, Langenbahn DM, Braden C, et al. Evidence-based cognitive rehabilitation: updated review. _Arch Phys Med Rehabil_. 2019;100(8):1515–33.
+
+\newpage
